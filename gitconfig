@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = hhuguenin.arnaud@gmail.com
+	email = hhuguenin.arnaud@gmail.Com
 	name = arnaud huguenin
